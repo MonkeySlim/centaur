@@ -1,4 +1,4 @@
 add text-git
 test update on github
 last time something wrong.
-new test
+new test for tortoiseGit
